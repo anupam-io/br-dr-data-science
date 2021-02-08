@@ -11,4 +11,8 @@ The variation of birth rate and death rate is analyzed from `1971` - `2016`.
 ![Plot](movie.gif)
 
 ## Pres link
-[slides](https://docs.google.com/presentation/d/1FDan7qdLdCRe5bKsrI6LKzBz6GDtBvIHHpaspP6_uxQ/edit?usp=sharing)
+[slides](https://cutt.ly/gkm21aA)
+
+## Youtube link
+[CS 328 Homework 1 Question 5 Data analysis of Birth rate and Death rates of indian states
+](https://youtu.be/aj6h1_k-fqA)
